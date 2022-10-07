@@ -140,5 +140,3 @@ Privacy & terms
 -Pricing + features
 -CTA
 -Footer
-
-#fae5d3
